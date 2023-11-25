@@ -1,4 +1,8 @@
-//Poojitha.YM,BMSIT&M,9346960904,poojithaymahesh@gmail.com,2020-2024
+//Poojitha.YM
+//BMSIT&M
+//9346960904
+//poojithaymahesh@gmail.com
+//2020-2024
 
 
 import java.util.ArrayList;
@@ -46,7 +50,7 @@ class Product {
         basket.add(new Product("Cigarette", 200, 3, 28)); 
         basket.add(new Product("Honey", 100, 2, 0)); // Assuming no GST for honey
 
-        // 1. Identify the product for which we paid maximum GST amount
+       
         double maxGST = 0;
         Product maxGSTProduct = null;
 
